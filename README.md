@@ -17,6 +17,21 @@ NASA Web Logs
 → Apache Spark Analytics
 → Interactive Dashboard
 
+## Cluster Configuration
+
+| Component | Count |
+|------------|--------|
+| NameNode | 1 |
+| DataNodes | 2 |
+| ResourceManager | 1 |
+| NodeManagers | 2 |
+
+Cluster Nodes:
+
+- Keerthana
+- Priyanga
+- Minha
+
 ## Features
 
 - HTTP Status Analytics
